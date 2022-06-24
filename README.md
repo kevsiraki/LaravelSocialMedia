@@ -1,1 +1,1 @@
-Laravel 8 Scoail Media application with REST API using Jetstream, Livewire, and Tailwind.
+Laravel 8 Social Media application with REST API using Jetstream, Livewire, and Tailwind.
